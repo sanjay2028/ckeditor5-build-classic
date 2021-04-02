@@ -10,6 +10,6 @@
 module.exports = {
 	extends: 'ckeditor5',
 	rules: {
-		"linebreak-style": ["error", "unix"]
+		"linebreak-style": 0
 	}
 };
